@@ -1,2 +1,2 @@
 # phpMobileHomePage
-http://ttmin.cafe24.com/shop/list.php
+http://ttmin.cafe24.com/
